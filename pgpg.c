@@ -14,5 +14,7 @@ a+b=c
 printf("\nC=",&c);
 a-b=c
 printf("\nC=",&c);
+a*b=c 
+printf("\nC=",&c);
 return 0;
 }
